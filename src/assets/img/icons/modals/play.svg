@@ -1,0 +1,36 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37" height="37" viewBox="0 0 37 37">
+  <defs>
+    <linearGradient id="linear-gradient" x1="-0.085" y1="0.5" x2="1.137" y2="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#d1d1d1"/>
+      <stop offset="0.43" stop-color="#fff"/>
+      <stop offset="1" stop-color="#e6e7e8"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient" cx="0.5" cy="0.5" r="0.5" gradientTransform="matrix(0.189, 0.982, -0.982, 0.189, 0.896, -0.086)" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27cee1"/>
+      <stop offset="1" stop-color="#007ebd"/>
+    </radialGradient>
+    <linearGradient id="linear-gradient-2" x1="0.204" y1="-0.018" x2="0.7" y2="1.311" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#fff"/>
+      <stop offset="0" stop-color="#f8fdfe"/>
+      <stop offset="1"/>
+    </linearGradient>
+    <radialGradient id="radial-gradient-2" cx="0.5" cy="0.5" r="0.5" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#27cee1"/>
+      <stop offset="1" stop-color="#27aae1"/>
+    </radialGradient>
+  </defs>
+  <g id="再生icon" transform="translate(-106.21 339.515)">
+    <circle id="Ellipse_1853" data-name="Ellipse 1853" cx="16.394" cy="16.394" r="16.394" transform="translate(106.977 -335.147) rotate(-5.633)" fill="#bcbec0" style="mix-blend-mode: multiply;isolation: isolate"/>
+    <circle id="Ellipse_1854" data-name="Ellipse 1854" cx="16.394" cy="16.394" r="16.394" transform="translate(106.786 -335.722) rotate(-5.631)" fill="#fff"/>
+    <circle id="Ellipse_1855" data-name="Ellipse 1855" cx="16.123" cy="16.123" r="16.123" transform="translate(106.21 -307.687) rotate(-80.772)" fill="#d1d3d4"/>
+    <circle id="Ellipse_1856" data-name="Ellipse 1856" cx="15.9" cy="15.9" r="15.9" transform="translate(108.81 -336.915)" fill="url(#linear-gradient)"/>
+    <circle id="Ellipse_1857" data-name="Ellipse 1857" cx="14.706" cy="14.706" r="14.706" transform="translate(107.837 -308.855) rotate(-80.78)" fill="#78cfff"/>
+    <circle id="Ellipse_1858" data-name="Ellipse 1858" cx="13.281" cy="13.281" r="13.281" transform="matrix(0.189, -0.982, 0.982, 0.189, 109.158, -310.485)" fill="url(#radial-gradient)"/>
+    <g id="Group_7654" data-name="Group 7654" transform="translate(120.352 -328.507)">
+      <path id="Path_11479" data-name="Path 11479" d="M142.078-312.335l-8.362-6.734c-.473-.273-.86-.05-.86.5V-305.1c0,.546.387.77.86.5l8.362-6.734A.525.525,0,0,0,142.078-312.335Z" transform="translate(-132.568 319.186)" fill="#d1d3d4" style="mix-blend-mode: multiply;isolation: isolate"/>
+      <path id="Path_11480" data-name="Path 11480" d="M141.547-311.805l-8.362-6.734c-.473-.273-.86-.049-.86.5v13.468c0,.547.387.77.86.5l8.362-6.734A.525.525,0,0,0,141.547-311.805Z" transform="translate(-132.325 318.943)" fill="#fff"/>
+    </g>
+    <path id="Path_11481" data-name="Path 11481" d="M128.477-331.784a14.05,14.05,0,0,0-14.05,14.05,14.127,14.127,0,0,0,.205,2.4c2.28-3.356,6.926-5.936,16.045-1a10.171,10.171,0,0,0,11.846-1.136c0-.089,0-.178,0-.267A14.05,14.05,0,0,0,128.477-331.784Z" transform="translate(-3.767 -3.545)" fill="url(#linear-gradient-2)" style="mix-blend-mode: screen;isolation: isolate"/>
+    <path id="Path_11482" data-name="Path 11482" d="M127.921-332.51A14.706,14.706,0,0,0,113.215-317.8,14.706,14.706,0,0,0,127.921-303.1,14.706,14.706,0,0,0,142.628-317.8,14.707,14.707,0,0,0,127.921-332.51Zm0,28.826A14.12,14.12,0,0,1,113.8-317.8a14.12,14.12,0,0,1,14.12-14.12,14.12,14.12,0,0,1,14.12,14.12A14.12,14.12,0,0,1,127.921-303.684Z" transform="translate(-3.212 -3.212)" fill="url(#radial-gradient-2)" style="mix-blend-mode: multiply;isolation: isolate"/>
+  </g>
+</svg>

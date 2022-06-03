@@ -27,6 +27,9 @@ const LayoutPage = () => {
           <Menu.Item key='4'>
             <NavLink to="modals">ModalPage</NavLink>
           </Menu.Item>
+          <Menu.Item key='5'>
+            <NavLink to="forms">FormPage</NavLink>
+          </Menu.Item>
         </Menu>
       </Header>
       <Content

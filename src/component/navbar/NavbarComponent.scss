@@ -1,0 +1,32 @@
+.header-002_03_09 {
+  z-index: 1;
+  color: #797979;
+  background-color: #2e2d2d;
+  position: sticky;
+  top: 0;
+  .list-group-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 45px;
+    text-align: center;
+    border: 0.5px solid #343434;
+    border-bottom: none;
+    background-color: #2e2d2d;
+    color: #a5a5a5;
+    white-space: nowrap;
+    font-size: 14px;
+    overflow: hidden;
+    &:hover {
+      background-color: #494a52;
+    }
+  }
+  .disabled {
+    color: white !important;
+    background-color: #343434 !important;
+  }
+}
+//css placeholder over-flow
+input:placeholder-shown {
+  text-overflow: ellipsis;
+}

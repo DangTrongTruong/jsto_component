@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43.865" height="33.006" viewBox="0 0 43.865 33.006">
+  <defs>
+    <filter id="Rectangle_5524" x="0" y="0" width="43.865" height="33.006" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="mail" transform="translate(4.75 3.75)">
+    <g transform="matrix(1, 0, 0, 1, -4.75, -3.75)" filter="url(#Rectangle_5524)">
+      <rect id="Rectangle_5524-2" data-name="Rectangle 5524" width="34.365" height="23.506" transform="translate(4.75 3.75)" fill="#fff" stroke="#bababa" stroke-width="0.5"/>
+    </g>
+    <path id="Path_10638" data-name="Path 10638" d="M-210.427-250.38v2.3l15.015,9.619,15.015-9.619v-2.3Z" transform="translate(212.595 252.325)" fill="#b7b7b7"/>
+  </g>
+</svg>

@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="225" height="225" viewBox="0 0 225 225">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#a8a8a8"/>
+      <stop offset="1" stop-color="#606060"/>
+    </linearGradient>
+    <filter id="Ellipse_1613" x="0" y="0" width="225" height="225" filterUnits="userSpaceOnUse">
+      <feOffset dx="3" dy="3" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="User_画像" data-name="User 画像" transform="translate(-35.738 -275.57)">
+    <g transform="matrix(1, 0, 0, 1, 35.74, 275.57)" filter="url(#Ellipse_1613)">
+      <circle id="Ellipse_1613-2" data-name="Ellipse 1613" cx="103.5" cy="103.5" r="103.5" transform="translate(6 6)" fill="url(#linear-gradient)"/>
+    </g>
+    <g id="icon" transform="translate(103.383 322.23)">
+      <path id="Path_5438" data-name="Path 5438" d="M436.026,867.762c-24.318,0-44.026,12.156-44.026,27.151,0,.406.022.813.051,1.216.042.552.1,1.106.193,1.651a12.338,12.338,0,0,0,1.8,4.491c2.361,2.777,6.662,4.923,12.316,6.476a126.168,126.168,0,0,0,28.2,3.046,123.382,123.382,0,0,0,36.816-5.328A12.263,12.263,0,0,0,480.008,896c.034-.333.056-.668.064-1.008v-.1C480.072,879.919,460.344,867.762,436.026,867.762Z" transform="translate(-392 -785.054)" fill="#fff"/>
+      <circle id="楕円形_1593" data-name="楕円形 1593" cx="36.697" cy="36.697" r="36.697" transform="translate(8.807)" fill="#fff"/>
+    </g>
+  </g>
+</svg>
