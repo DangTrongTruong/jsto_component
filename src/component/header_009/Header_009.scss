@@ -1,0 +1,48 @@
+.wrapper-009_00_00 {
+  .relative {
+    position: relative;
+  }
+  .titleHeader {
+    width: 130px;
+  }
+  .icon-spacing {
+    margin: 0 10px;
+    font-size: 10px;
+  }
+  .textfix,
+  .subfix {
+    position: absolute;
+  }
+  .textfix {
+    top: 20%;
+    left: 20%;
+    color: #fff;
+  }
+  .subfix {
+    top: 15%;
+    right: 5%;
+  }
+  .inputCalender {
+    background: #404040 0% 0% no-repeat padding-box;
+    border: 1px solid #1e76fe;
+    border-radius: 4px;
+    height: 35px;
+  }
+  .btn {
+    width: 180px;
+    height: 42px;
+  }
+  .btn-right {
+    .link-csv {
+      margin-right: 3rem;
+      white-space: nowrap;
+    }
+  }
+  .btn-left {
+    .textfix {
+      span {
+        font-size: 14px;
+      }
+    }
+  }
+}

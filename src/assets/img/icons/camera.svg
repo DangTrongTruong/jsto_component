@@ -1,9 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="38.339" height="38.339" viewBox="0 0 38.339 38.339">
-  <g id="IMG編集" transform="translate(-883.672 -153.416)">
-    <circle id="Ellipse_1574" data-name="Ellipse 1574" cx="19.169" cy="19.169" r="19.169" transform="translate(883.672 153.416)" fill="#3c3c3c"/>
-    <g id="Group_4245" data-name="Group 4245" transform="translate(891.939 164.878)">
-      <path id="Path_5095" data-name="Path 5095" d="M908.487,160.168H890.4a1.872,1.872,0,0,0-1.859,1.886V173.7a1.871,1.871,0,0,0,1.859,1.884h18.086a1.871,1.871,0,0,0,1.859-1.884V162.054A1.872,1.872,0,0,0,908.487,160.168Zm-11.1,13.484a5.215,5.215,0,1,1,5.144-5.215A5.181,5.181,0,0,1,897.388,173.652Zm10.347-8.345h-2.3v-2.336h2.3Z" transform="translate(-888.542 -160.168)" fill="#f2f2f2"/>
-      <ellipse id="Ellipse_1575" data-name="Ellipse 1575" cx="3.028" cy="3.07" rx="3.028" ry="3.07" transform="translate(5.818 5.199)" fill="#f2f2f2"/>
-    </g>
-  </g>
-</svg>
