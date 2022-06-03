@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="43" height="27" viewBox="0 0 53 37">
+  <defs>
+    <filter id="Rectangle_5524" x="23.211" y="10.76" width="26.686" height="21.256" filterUnits="userSpaceOnUse">
+      <feOffset dy="1" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="1.5" result="blur"/>
+      <feFlood flood-opacity="0.161"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="plusMail6786" transform="translate(-0.001)">
+    <g id="Ellipse_1745" data-name="Ellipse 1745" transform="translate(19.001 3)" fill="none" stroke="#5c5c5c" stroke-width="1">
+      <circle cx="17" cy="17" r="17" stroke="none"/>
+      <circle cx="17" cy="17" r="16.5" fill="none"/>
+    </g>
+    <g id="mail" transform="translate(27.962 14.51)">
+      <g transform="matrix(1, 0, 0, 1, -27.96, -14.51)" filter="url(#Rectangle_5524)">
+        <rect id="Rectangle_5524-2" data-name="Rectangle 5524" width="17.186" height="11.756" transform="translate(27.96 14.51)" fill="#fff" stroke="#bababa" stroke-width="0.5"/>
+      </g>
+      <path id="Path_10638" data-name="Path 10638" d="M-210.427-250.38v1.152l7.509,4.811,7.509-4.811v-1.152Z" transform="translate(211.511 251.353)" fill="#b7b7b7"/>
+    </g>
+    <g id="Group_6629" data-name="Group 6629" transform="translate(0 0)">
+      <circle id="Ellipse_1746" data-name="Ellipse 1746" cx="12.5" cy="12.5" r="12.5" transform="translate(0.001)" fill="#00be85"/>
+      <path id="Path_10633" data-name="Path 10633" d="M-144.367-240.325h-5.391v-5.391A1.284,1.284,0,0,0-151.042-247a1.284,1.284,0,0,0-1.284,1.284v5.391h-5.391A1.284,1.284,0,0,0-159-239.042a1.284,1.284,0,0,0,1.284,1.284h5.391v5.391a1.284,1.284,0,0,0,1.284,1.284,1.284,1.284,0,0,0,1.284-1.284v-5.391h5.391a1.284,1.284,0,0,0,1.284-1.284A1.284,1.284,0,0,0-144.367-240.325Z" transform="translate(163.625 251.625)" fill="#343434"/>
+    </g>
+  </g>
+</svg>
