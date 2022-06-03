@@ -1,0 +1,15 @@
+.header-admin-text {
+  font-family: "Bebas Neue";
+  color: #838383;
+  font-size: 36px;
+}
+
+.iconClose {
+  opacity: 0;
+}
+
+.buttonClose:hover {
+  .iconClose {
+    opacity: 1;
+  }
+}
