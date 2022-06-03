@@ -1,0 +1,53 @@
+ <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="14.838"
+                height="17.913"
+                viewbox="0 0 14.838 17.913"
+              >
+                <g id="iconDocuments" transform="translate(-2032.278 -19.537)">
+                  <rect
+                    id="Rectangle_6275"
+                    data-name="Rectangle 6275"
+                    width="13.837"
+                    height="12.727"
+                    transform="translate(2032.778 24.223)"
+                    fill="none"
+                    stroke="#797979"
+                    stroke-miterlimit="10"
+                    stroke-width="1"
+                  ></rect>
+                  <rect
+                    id="Rectangle_6276"
+                    data-name="Rectangle 6276"
+                    width="8.927"
+                    height="1.488"
+                    transform="translate(2035.158 26.535)"
+                    fill="#9a9a9a"
+                  ></rect>
+                  <rect
+                    id="Rectangle_6277"
+                    data-name="Rectangle 6277"
+                    width="8.927"
+                    height="1.488"
+                    transform="translate(2035.158 29.659)"
+                    fill="#9a9a9a"
+                  ></rect>
+                  <rect
+                    id="Rectangle_6278"
+                    data-name="Rectangle 6278"
+                    width="8.927"
+                    height="1.488"
+                    transform="translate(2035.158 32.784)"
+                    fill="#9a9a9a"
+                  ></rect>
+                  <path
+                    id="Path_11545"
+                    data-name="Path 11545"
+                    d="M2047.99,24.229h-13.837V20.037h10.415l3.422,3.49Z"
+                    transform="translate(-1.375)"
+                    fill="#9a9a9a"
+                    stroke="#797979"
+                    stroke-width="1"
+                  ></path>
+                </g>
+              </svg>
