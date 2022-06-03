@@ -24,7 +24,7 @@ const LayoutPage = () => {
           <Menu.Item key='3'>
             <NavLink to="header">HeaderPage</NavLink>
           </Menu.Item>
-          <Menu.Item key='3'>
+          <Menu.Item key='4'>
             <NavLink to="modals">ModalPage</NavLink>
           </Menu.Item>
         </Menu>
