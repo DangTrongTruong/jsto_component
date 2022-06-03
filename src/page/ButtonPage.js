@@ -2,7 +2,7 @@ import React from 'react'
 
 const ButtonPage = () => {
   return (
-    <div>ButtonPage</div>
+    <div>Button page</div>
   )
 }
 

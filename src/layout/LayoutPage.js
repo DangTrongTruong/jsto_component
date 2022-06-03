@@ -15,17 +15,20 @@ const LayoutPage = () => {
       >
         <div className="logo" />
         <Menu theme="dark" mode="horizontal">
-          <Menu.Item key='1'>
+          <Menu.Item key="1">
             <NavLink to="/">ButtonPage</NavLink>
           </Menu.Item>
-          <Menu.Item key='2'>
+          <Menu.Item key="2">
             <NavLink to="nav">NavbarPage</NavLink>
           </Menu.Item>
-          <Menu.Item key='3'>
+          <Menu.Item key="3">
             <NavLink to="header">HeaderPage</NavLink>
           </Menu.Item>
-          <Menu.Item key='3'>
+          <Menu.Item key="4">
             <NavLink to="modals">ModalPage</NavLink>
+          </Menu.Item>
+          <Menu.Item key="5">
+            <NavLink to="siderbar">Siderbar</NavLink>
           </Menu.Item>
         </Menu>
       </Header>
